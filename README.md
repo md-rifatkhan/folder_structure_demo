@@ -2,7 +2,7 @@
 
 Professional Folder Structure for any large scaled Flutter App - Getx Pattern
 
-'''bash
+```bash
 lib/
 └── app/
     ├── data/
@@ -47,4 +47,4 @@ lib/
     │   │       ├── firestore_service.dart  # Firestore implementation of `DatabaseService`.
     │   │       └── database_factory.dart   # Factory class for switching databases.
 
-'''
+```
