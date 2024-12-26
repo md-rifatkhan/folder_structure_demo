@@ -1,0 +1,1 @@
+// Centralized app strings for localization or reuse.

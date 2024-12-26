@@ -1,0 +1,1 @@
+// Global logger for debug and error logs.

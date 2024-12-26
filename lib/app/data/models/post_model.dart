@@ -1,0 +1,1 @@
+// Post data model (e.g., title, content, timestamps).

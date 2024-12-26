@@ -1,0 +1,1 @@
+// Abstract database service interface.

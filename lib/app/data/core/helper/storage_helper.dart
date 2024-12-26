@@ -1,0 +1,1 @@
+// Helpers for shared preferences or local storage.

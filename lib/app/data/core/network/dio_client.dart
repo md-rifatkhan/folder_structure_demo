@@ -1,0 +1,1 @@
+// Configures Dio HTTP client for API requests.

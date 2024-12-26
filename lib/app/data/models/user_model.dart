@@ -1,0 +1,1 @@
+// User data model (e.g., name, email, avatar).

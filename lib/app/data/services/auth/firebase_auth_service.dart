@@ -1,0 +1,1 @@
+// Firebase-specific authentication implementation.
